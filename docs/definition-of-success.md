@@ -60,7 +60,7 @@
 |---------|-----------|
 | DAU, Утримання | Google Analytics |
 | Uptime, Швидкість | Datadog |
-| ��аги | Sentry |
+| баги | Sentry |
 | Юзабіліть | Session Recording (Hotjar) |
 | Оцінки | Database queries |
 | Feedback | Google Forms |
